@@ -45,11 +45,11 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanielchids&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<!--will release when more PRs and stars show -->
+<!--will release when more PRs and stars show
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanielchids&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hanielchids&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
