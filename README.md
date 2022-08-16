@@ -41,7 +41,7 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanielchids&show_icons=true&locale=en&layout=compact" alt="hanielchids" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanielchids&show_icons=true&locale=en&layout=compact" alt="hanielchids" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanielchids&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
