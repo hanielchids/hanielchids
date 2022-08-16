@@ -47,15 +47,13 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanielchids&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanielchids&theme=dark&background=000000" alt="hanielchids" /></a>
+![](https://github-profile-trophy.vercel.app/?username=hanielchids&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 <!--will release when more PRs and stars show
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanielchids&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hanielchids&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **hanielchids/hanielchids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
