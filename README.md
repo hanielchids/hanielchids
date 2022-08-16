@@ -47,7 +47,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanielchids&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanielchids" alt="hanielchids" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanielchids&theme=dark&background=000000" alt="hanielchids" /></a>
 
 <!--will release when more PRs and stars show
 
