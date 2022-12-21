@@ -53,10 +53,10 @@
 
 <!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanielchids" alt="hanielchids" /></a>  -->
 
-<!--will release when more PRs and stars show -->
+<!--will release when more PRs and stars show 
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanielchids&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 
 <!--
