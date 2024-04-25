@@ -1,4 +1,7 @@
 ### Hi there, I'm Haniel 👋
+I make cool software <br />
+TypeScript | JavaScript | NodeJs | C++ | Ruby on Rails | C# developer
+<br/>
 <a href="https://www.linkedin.com/in/haniel-chidavose-503168205">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" width="140" height="40"/></a>
 
